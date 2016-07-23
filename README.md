@@ -22,7 +22,7 @@ To demonstrate basic android programming concepts to people of all objectives
 is there a better way to have created this screen?
 - Does the current form of the app implement the full functionality
 intended by the original author?
-- If it doesn't, implement the remaining functionality intended.
+- If it doesn't, implement the remaining functionalities intended.
 
 ### Consider the class BasicKeyInit
 - Were the methods written in the best possible way? If not, why?
