@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="README.css">
 # Numbers-Calculator
-An open source Abdroid project for new android developers
+An open source Android project for new android developers
 ## Aim of project
 To demonstrate basic android programming concepts to people of all objectives
 ## Concepts demonstrated
