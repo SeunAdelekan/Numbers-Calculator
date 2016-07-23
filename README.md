@@ -24,10 +24,13 @@ is there a better way to have created this screen?
 intended by the original author?
 - If it doesn't, implement the remaining functionality intended.
 
-## Consider the class BasicKeyInit
+### Consider the class BasicKeyInit
 - Were the methods written in the best possible way? If not, why?
 Rewrite the method constructs in a more meaningful way.
 
-## Consider EvaluationCore.java
+### Consider EvaluationCore.java
 - What is its purpose?
 - Rewrite the class in a better way.
+
+## License
+MIT License
