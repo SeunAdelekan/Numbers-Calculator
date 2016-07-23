@@ -17,6 +17,8 @@ To demonstrate basic android programming concepts to people of all objectives
 
 ## Your tasks
 ### Consider the screen below
+
+![screen_main](screen_main.png)
 - Are there any fragments present? If so, how many?
 - From your observation of the code in MainActivity.java
 is there a better way to have created this screen?
@@ -31,6 +33,9 @@ Rewrite the method constructs in a more meaningful way.
 ### Consider EvaluationCore.java
 - What is its purpose?
 - Rewrite the class in a better way.
+
+### About this project
+![screen_about](screen_about.png)
 
 ## License
 MIT License
