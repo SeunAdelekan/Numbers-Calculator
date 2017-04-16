@@ -39,5 +39,5 @@ Rewrite the method constructs in a more meaningful way.
 ![screen_about](screen_about.png)
 
 ## License
-MIT License
+![license](LICENSE)
 
